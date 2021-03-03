@@ -1,0 +1,117 @@
+           		* {
+padding: 0;
+margin: 0;
+}
+body{
+background-size: 100%;
+
+background-repeat: no-repeat;
+background-image: url("artificial_intelligence.png");
+}
+.container {
+    width: 27%;
+    margin: auto 600px;
+     border-radius: 5px;
+ }
+
+.logo {
+    margin: 19px auto 75px;
+
+    text-align: right;}
+
+h4{
+	color:#2b0133;
+	text-align:center;
+}
+
+
+.test {
+    width: 27%;
+    margin: auto 450px;
+    border-radius: 5px;
+    
+}
+    .form-title {
+    margin: 60px auto 20px;
+    padding: 18px;
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+    text-decoration-color: #bc45c5;
+}
+button {
+    margin: 7px 35%;
+padding: 5px 54px;
+font-size: 14px;
+cursor: pointer;
+text-align: center;
+text-decoration: none;
+outline: none;
+color: #fff;
+background-color: #010933b3;
+border: none;
+border-radius: 15px;
+box-shadow: 2px 4px 5px rgba(102, 102, 102, 0.41);
+
+}
+
+.users_input {
+	height: auto;
+	width: 500px;
+	 margin: 60px auto 20px;
+    padding: 18px;
+    text-align: center;
+     padding: 15px;
+}
+img{width:154px
+}
+
+input {
+   
+    padding: 12px 20px;
+    margin: 7px 35%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    box-sizing: border-box;
+    border:  1px solid #402949;
+    padding-left: 50px;
+
+
+}
+button:hover {
+   background-color: #30546e78;
+}
+button:active {
+background-color:#1b234db3;
+box-shadow: 0px 1px 10px rgba(102, 102, 102, 0.41);
+transform: translateY(4px);
+}
+.contr{
+	width: 80%;
+	margin: 130px auto;
+	text-anchor: center;
+}
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('img/Smart-Lighting-1.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.method{
+      background-position: center;
+
+}
+.w3-jumbo {
+    font-size: 64px!important;
+    color: #fff;
+}
+.w3-center {
+    text-align: center!important;
+    color: #fff;
+}
